@@ -65,7 +65,7 @@ Admission Controller: 用于在 pod 创建时修改 resource requests
     # make test
     # make install
 
-    # ln -s /usr/local/ssl/bin/openssl /usr/bin/openssl
+    # ln -s /usr/local/bin/openssl /usr/bin/openssl
 
 
 加载共享库libssl.so.1.1时如何解决openssl错误
